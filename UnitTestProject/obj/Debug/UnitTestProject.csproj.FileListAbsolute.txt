@@ -1,0 +1,7 @@
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\bin\Debug\Rhino.Mocks.dll
+C:\Users\Adeline.Lim\documents\visual studio 2013\Projects\ForROR\UnitTestProject\bin\Debug\Rhino.Mocks.xml
